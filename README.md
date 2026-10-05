@@ -1,6 +1,10 @@
-# Hello World!
+<div align=center>
+  <img width="80%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhna3ozaGhpaTlsZDg2M3AwaHgwdzV5YnlnZ3IzZGI0cGFmMncxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgG50Fb7Mi0prBC/giphy.gif">
+</div>
 
-My name is Raffa Purnomo. I'm a Computer Science at Brawijaya University, learning IT from ground up.
+<h1 align=center>Hello, World!</h1>
+
+My name is Raffa Purnomo. I'm a Computer Science student at Brawijaya University, learning IT from ground up.
 And as a first step, I'm learning java programming.
 
 ## Currently Learning
